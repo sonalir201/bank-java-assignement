@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class BankingApps {
-    public static void main(String arg[]) {
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         //create initial accounts
         System.out.print("How many number of customers do you want to input = ");
